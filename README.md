@@ -68,6 +68,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 ## 👊🏻 Connect with me!
 
-Thanks for check my profile! [All my socials right here. 🔗](https://links.as7.dev/@bielson)
+Thanks for check my profile! [All my socials right here. 🔗](https://links.as7.dev/@gfaraujosousa)
 
 > "All roads lead to Rome!"
