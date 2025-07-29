@@ -24,8 +24,8 @@ style="padding right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img
-alt="next.js"
-title="next.js"
+alt="laravel"
+title="laravel"
 width="35px" 
 style="padding right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
