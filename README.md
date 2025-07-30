@@ -55,16 +55,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 ## 🫡 About me
 
 - I'm a 23 years old fullstack developer from **Goiânia - GO, Brazil**;
-- Graduating in Software Engineering at [Estácio](https://estacio.br/);
-- Since 8 years old building solutions for my curiosity on games and stuff;
+- I am currently studying Software Engineering as an undergraduate at [Estácio](https://estacio.br/).
+- I’ve been coming up with inventive solutions to my curiosities since I was 8 years old
 - [Check my CV for more details about my progression as Developer](https://as7.dev).
 
 ## 🔦 Some highlights of my journey
 
-- 2013 | Set a Minecraft server and make a own plugin;
-- 2015 | Make a Minecraft HUD mod for HG/PvP server players;
-- 2016 | Modding Elsword HUD with custom assets;
-- 2019 | A League of Legends guide app for new players with React Native (Expo) and Strapi.
+- 2013 | Set up a Minecraft server and make a own plugin;
+- 2015 | Made a Minecraft HUD mod for HG/PvP server players;
+- 2016 | Made a Elsword HUD mod with custom assets;
+- 2019 | Developed a League of Legends guide app for new players with React Native (Expo) and Strapi.
 
 ## 👊🏻 Connect with me!
 
