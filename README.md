@@ -3,8 +3,8 @@
 ## 👾 Current Stack
 
 <img
-alt="spring"
-title="spring"
+alt="nodejs"
+title="nodejs"
 width="35px"
 style="padding right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
