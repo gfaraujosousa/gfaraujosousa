@@ -2,61 +2,78 @@
 
 # Gabriel Francisco
 
-### Full Stack Developer · SaaS · Web Applications
+### Full Stack Developer · Web & Desktop · Product Engineering
 
-Building useful software, from the interface to deployment.
+From product interfaces to APIs, native apps, and delivery pipelines.
 
-Goiânia, Brazil
+**Goiânia, Brazil**
 
-<a href="mailto:gfaraujosousa@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email Gabriel"></a>
-<a href="https://github.com/gfaraujosousa?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-18181B?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories"></a>
-<a href="https://www.youtube.com/@notbielson"><img src="https://img.shields.io/badge/YouTube-Bielson-18181B?style=flat-square&logo=youtube&logoColor=white" alt="Bielson on YouTube"></a>
+<a href="https://www.linkedin.com/in/gfaraujosousa/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge" alt="Connect with Gabriel on LinkedIn"></a>
+<a href="https://as7.dev/"><img src="https://img.shields.io/badge/Portfolio-AS7-18181B?style=for-the-badge" alt="Explore my portfolio"></a>
+<a href="mailto:gfaraujosousa@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-18181B?style=for-the-badge" alt="Email Gabriel"></a>
 
 </div>
 
 ---
 
-## A little about me
+## About me
 
-I'm a full stack developer based in Goiânia, Brazil. I build web applications, SaaS products, and tools that make everyday tasks easier.
+I'm a full stack developer building SaaS products, web applications, and desktop tools. I work across the product: shaping the interface, implementing business rules, integrating services, and preparing software for delivery.
 
-My first projects grew out of games: setting up a Minecraft server in 2013, experimenting with mods, and later building a League of Legends guide app. That curiosity still shapes my work. I like understanding how things work, finding something worth improving, and building a solution people can actually use.
+My recent projects bring together **Rust, TypeScript, React, and Laravel**. I enjoy work where the interface and the underlying system need equal attention: a block editor that preserves drafts during conflicts, a desktop app that updates from signed releases, or a video tool that connects a timeline to a rendering engine.
 
-Today, my work spans frontend interfaces, backend development, integrations, and deployment. Alongside client projects, I'm developing my own products and studying Software Engineering at Estácio.
+I co-founded **Psidex** and study Software Engineering at **Estácio**. My programming journey started with a Minecraft server in 2013; today, games and content creation still give me practical problems to build for.
 
-## What I'm building
+## Selected work
 
-| Project | What it does | Focus |
+Several of my recent projects are in private repositories. The summaries below describe the work without exposing their source code.
+
+| Project | What I'm working on | Technologies |
 | :--- | :--- | :--- |
-| **[LoL Settings Changer](https://github.com/gfaraujosousa/lol-settings-changer)** | A Windows app to save, apply, and restore League of Legends settings profiles, with backups and a multilingual interface. | React · TypeScript · Tauri |
+| **Psidex** · Pre-launch | Practice management software for independent psychologists, bringing clinical records, scheduling, and finances into one product. | Laravel · React · TypeScript · PostgreSQL |
+| **NahNotes** · In development | A workspace for notes, projects, and structured databases, with a block editor, autosave, conflict detection, and a shared web/desktop interface. | Rust · Axum · React · Tauri · PostgreSQL |
+| **Bielson Tracker** · In development | A desktop administration app and client web portal for tracking Pokémon collection deliveries, with progress updates, reports, and signed desktop updates. | Rust · Axum · SvelteKit · Tauri · SQLite |
+| **Biel Editor** · In development | A local video editor with a visual timeline, compositing, audio tracks, GPU rendering, and integration with AI coding tools through MCP. | Rust · egui · Axum |
+| **[LoL Settings Changer](https://github.com/gfaraujosousa/lol-settings-changer)** · Public | A Windows utility to save, apply, and restore League of Legends settings profiles, with backups, validation, and a multilingual interface. | React · TypeScript · Tauri |
 
-I also build websites and landing pages for businesses and independent professionals, working through implementation, publishing, and ongoing improvements.
+I've also contributed to a collaborative **Python video-processing pipeline**, including caption previews, rendering controls, and browser layout fixes.
 
-## Tools I work with
+## Engineering beyond the interface
+
+- **Shared web and desktop applications:** reusable interfaces, typed API contracts, native packaging, and platform-specific session handling.
+- **Data and application behavior:** authentication, access control, background jobs, import/export, migrations, and conflict-aware editing.
+- **Verification and delivery:** unit, integration, and browser tests; Docker builds; GitHub Actions; backup and restore workflows.
+
+## Stack across my recent projects
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-18181B?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-| Area | Technologies |
+| Area | Tools |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript |
-| **Backend & data** | PHP, Node.js, PostgreSQL |
-| **Delivery & infrastructure** | Docker, Linux, VPS, Git, GitHub Actions |
-| **Websites & automation** | WordPress, Elementor, n8n, Make |
-| **Desktop & other projects** | Tauri, Java |
+| **Frontend** | React, Next.js, TypeScript, SvelteKit, Tailwind CSS, Inertia.js |
+| **Backend & data** | Rust, Axum, Tokio, PHP, Laravel, Node.js, PostgreSQL, SQLite, Redis |
+| **Desktop & media** | Tauri, egui, Python, FFmpeg |
+| **Testing & delivery** | Vitest, Playwright, Pest, Cargo tests, Docker, GitHub Actions, Linux |
 
-## Beyond development
+## Beyond code
 
-I create gaming content as **Bielson**, mainly about Pokémon. Researching a topic, explaining it clearly, and listening to an audience are also part of how I approach software.
-
-Games got me into programming. Building things that other people find useful keeps me here.
+I create Pokémon content as **[Bielson](https://www.youtube.com/@notbielson)**. Building tools for my own production workflow keeps development connected to something I use: editing videos, managing projects, and making repetitive work easier.
 
 ---
 
-**Have a project in mind or want to talk about an opportunity?**  
-[Let's connect →](mailto:gfaraujosousa@gmail.com)
+<div align="center">
+
+**Have an interesting product or engineering problem?**
+
+### [Let's connect →](https://www.linkedin.com/in/gfaraujosousa/)
+
+[Portfolio](https://as7.dev/) · [Résumé](https://as7.dev/en/resume/) · [YouTube](https://www.youtube.com/@notbielson)
+
+</div>
