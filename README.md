@@ -20,9 +20,11 @@ From product interfaces to APIs, native apps, and delivery pipelines.
 
 I'm a full stack developer building SaaS products, web applications, and desktop tools. I work across the product: shaping the interface, implementing business rules, integrating services, and preparing software for delivery.
 
-My recent projects bring together **Rust, TypeScript, React, and Laravel**. I enjoy work where the interface and the underlying system need equal attention: a block editor that preserves drafts during conflicts, a desktop app that updates from signed releases, or a video tool that connects a timeline to a rendering engine.
+My recent projects bring together **Rust, TypeScript, Python, React, and Laravel**. I enjoy work where the interface and the underlying system need equal attention: a block editor that preserves drafts during conflicts, a desktop app that updates from signed releases, or a video tool that connects a timeline to a rendering engine.
 
 I co-founded **Psidex** and study Software Engineering at **Estácio**. My programming journey started with a Minecraft server in 2013; today, games and content creation still give me practical problems to build for.
+
+I also contribute to **PokéLDN** and publish my own community plugins, connecting desktop tooling with ESP32 hardware and Pokémon games.
 
 ## Selected work
 
@@ -30,6 +32,7 @@ Several of my recent projects are in private repositories. The summaries below d
 
 | Project | What I'm working on | Technologies |
 | :--- | :--- | :--- |
+| **[PokéLDN Plugins](https://github.com/gfaraujosousa/pokeldn-plugins)** · Public | Community extensions for single-trade evolution, Gen 3 legendary respawns and shiny RNG, quality-of-life tools, and a custom trainer battle. | Python · ESP32 · Gen 3 tooling |
 | **Psidex** · Pre-launch | Practice management software for independent psychologists, bringing clinical records, scheduling, and finances into one product. | Laravel · React · TypeScript · PostgreSQL |
 | **NahNotes** · In development | A workspace for notes, projects, and structured databases, with a block editor, autosave, conflict detection, and a shared web/desktop interface. | Rust · Axum · React · Tauri · PostgreSQL |
 | **Bielson Tracker** · In development | A desktop administration app and client web portal for tracking Pokémon collection deliveries, with progress updates, reports, and signed desktop updates. | Rust · Axum · SvelteKit · Tauri · SQLite |
@@ -37,6 +40,18 @@ Several of my recent projects are in private repositories. The summaries below d
 | **[LoL Settings Changer](https://github.com/gfaraujosousa/lol-settings-changer)** · Public | A Windows utility to save, apply, and restore League of Legends settings profiles, with backups, validation, and a multilingual interface. | React · TypeScript · Tauri |
 
 I've also contributed to a collaborative **Python video-processing pipeline**, including caption previews, rendering controls, and browser layout fixes.
+
+## Open source & hardware
+
+### [PokéLDN](https://github.com/Decryptu/pokeldn) · Contributor
+
+PokéLDN connects an ESP32 board to retail Pokémon games over local wireless. My **[merged contribution — PR #60](https://github.com/Decryptu/pokeldn/pull/60)** adds a ROM-loader fallback for ESP32 boards whose stub flasher fails to start, with bounded retries, regression tests, and validation on physical hardware.
+
+### [My PokéLDN plugins](https://github.com/gfaraujosousa/pokeldn-plugins) · Author
+
+I publish five community plugins as signed, installable packages: **Send the same one back**, **Static Legendary Respawn**, **Shiny Static Legendary RNG**, **Gen 3 QoL Pack**, and **Bielson Battle Event**. The work spans trade-host integration, game scripts, and ARM payloads for Gen 3 tools.
+
+[Browse the catalog](https://github.com/gfaraujosousa/pokeldn-plugins#plugin-catalog) · [Download releases](https://github.com/gfaraujosousa/pokeldn-plugins/releases)
 
 ## Engineering beyond the interface
 
@@ -48,6 +63,7 @@ I've also contributed to a collaborative **Python video-processing pipeline**, i
 
 <p>
   <img src="https://img.shields.io/badge/Rust-18181B?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
@@ -60,6 +76,7 @@ I've also contributed to a collaborative **Python video-processing pipeline**, i
 | **Frontend** | React, Next.js, TypeScript, SvelteKit, Tailwind CSS, Inertia.js |
 | **Backend & data** | Rust, Axum, Tokio, PHP, Laravel, Node.js, PostgreSQL, SQLite, Redis |
 | **Desktop & media** | Tauri, egui, Python, FFmpeg |
+| **Hardware & game tooling** | ESP32 integration, Python plugins, ARM payloads, game scripting |
 | **Testing & delivery** | Vitest, Playwright, Pest, Cargo tests, Docker, GitHub Actions, Linux |
 
 ## Beyond code
